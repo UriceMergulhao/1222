@@ -1,0 +1,45 @@
+.heading{
+font-size: 20px;
+font-family: 'Pacifico',cursive;
+color: rgb(255, 255, 255);
+width: 100%;
+margin: 0px;
+background-color:#ffcc00;
+}
+h1{
+    font-size: 35px;
+    font-family:'Pacifico', cursive; 
+    color:#ffcc00;
+    margin: 0px;
+    background-color:#ffcc00;
+    
+    }
+
+.NOTE{
+    font-family: 'Gill Sans',cursive ;
+    font-size: 15px;
+    color: black;
+    background-color:#ffcc00 ;
+
+}   
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    background-color: #ffcc00;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+canvas{
+    border: blue 10px solid ;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px  black;
+    
+}
+
+ 
+
+ 
+
+
